@@ -19,5 +19,5 @@ def calculator():
         return f"Результат:{result}"
     except ValueError:
         return "Помилка: введено не число!"
-        print('Ошибка:', e)
+
 print(calculator())

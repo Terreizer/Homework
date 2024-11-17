@@ -1,4 +1,4 @@
-#Було додано перевірку на ділення на 0 у class Fraction:
+#Було додано перевірку знаменника нул, у class Fraction:
 
 from math import gcd
 
